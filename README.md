@@ -10,7 +10,7 @@
 - **Mô hình LSTM** dự đoán giá dựa trên 60 ngày trước
 - **Biểu đồ tương tác** với Plotly
 
-## 🛠 Công nghệ
+## Công nghệ
 
 - **Python** - Ngôn ngữ chính
 - **Dash & Plotly** - Dashboard
@@ -58,7 +58,7 @@ Truy cập: **http://127.0.0.1:8050/**
 - Chọn cổ phiếu từ dropdown
 - Xem biểu đồ giá cao/thấp và volume
 
-## 🎯 Train mô hình (tùy chọn)
+## Train mô hình (tùy chọn)
 
 ```bash
 python stock_pred.py
